@@ -12,6 +12,10 @@ xy = '5'
 a = '5'
 c = int(xy) + int(a)
 
+d = 5
+f = 5
+
+
 print(c)
 print(type(xy))
 
@@ -30,7 +34,25 @@ print(fruit5)
 print(fruit6)
 
 fruits = ["banana", "apple", "cherry"]
-f1,f2,f3 = fruits
+f1, f2, f3 = fruits
 print(f1)
 print(f2)
 print(f3)
+
+
+a = 7
+b = 10
+
+b = a + b
+a = b - a
+b = b - a
+print(a, b)
+
+
+a = 7
+b = 10
+ 
+c = b
+b = a
+a = c
+print(a, b)

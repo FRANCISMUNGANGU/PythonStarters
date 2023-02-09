@@ -1,4 +1,16 @@
-C-create
-R-read
-U-update
-D-Delete
+# We use operators to manipulate the value of operands (Values/Variables)
+# Types of operators
+# 1. Arithmetic operators (+,-,/,*,%,**,//)
+# 2. Comparison operators (>,<,<=,>=,!=,==)
+# 3. Assignment Operators (=,+=,-=,*=,%=,**=,//=)
+# 4. Logical Operators (and,or,not)
+# # week 2
+# others , membership operators / bitwise / identity operators
+
+#Comparison operators
+# equal 4 == 5 false
+# less than 4 < 5 true
+# greater than4 > 5 false
+# not equal 4 != 5 true
+# less or equal4 <= 5 true
+# greater or equal4 >= 5 false
