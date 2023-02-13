@@ -6,3 +6,47 @@ that will take the age and gender of a customer and based off the ages it should
   "Can go in! But does not receive a free drink"
 3. If the age is between 18 to ... and the gender is female : print out the statement
  "Can go in! receives a free drink, its ladies night"
+
+
+ https://docs.google.com/document/d/1pxQp9nhM3hkLMEKyvey_c-lOMCE_z_ek-idmUVS2JAw/edit?usp
+
+ FRIDAY INDEPENDENT PROJECT
+
+Submit your portfolio github pages live link to the email josephbill00@gmail.com
+Deadline : End Of Day  10/02/2023
+
+Using the following links fulfill the objectives below
+
+Python Strings : https://www.tutorialspoint.com/python/python_strings.htm
+In a file stringsexample.py give an example code of accessing values in strings
+In the same file give an example code of updating values in strings
+
+Python Numbers : https://www.tutorialspoint.com/python/python_numbers.htm
+In a file numbersexample.py gives an example of a mathematical function.
+
+
+       3.
+
+Write a Python program that:
+Takes two input values, a and b
+If a is equal to b, print "a and b are equal"
+If a is greater than b, print "a is greater than b"
+If b is greater than a, print "b is greater than a"
+Requirements
+The input values should be integers
+If the input values are not integers, the program should print "Invalid input".
+4.
+
+Problem Statement 1
+Write a Python program that takes two numbers as input and calculates their sum, difference, product, and quotient (division). The program should also check if the two numbers are equal or not. If the second number is 0, the program should print an error message saying "division by zero" and not perform the division operation.
+Requirements
+The input values should be integers
+If the input values are not integers, the program should print "Invalid input".
+DEADLINE : MONDAY 13/02/2023 : 11:00 AM
+BONUS : EXTRA CHALLENGE
+Problem Statement 2
+Write a Python program that takes a string as input and checks if it is a palindrome. A palindrome is a word, phrase, number, or other sequence of characters which reads the same backward or forward.
+Requirements
+The input should be a string
+The program should ignore spaces, punctuation, and case when checking if the string is a palindrome.
+If the input is not a string, the program should print "Invalid input".
