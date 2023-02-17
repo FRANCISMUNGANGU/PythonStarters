@@ -70,8 +70,4 @@ print(shoppingBasket)
 shoppingBasket.clear()
 print(shoppingBasket)
 
-# https://www.w3schools.com/python/python_lists_sort.asp : Sorting a list
-# https://www.w3schools.com/python/python_lists_copy.asp
-# Copying a lists
-# https://www.w3schools.com/python/python_lists_join.asp  : joining a list
-# https://www.w3schools.com/python/python_lists_methods.asp : glossary of list methods
+

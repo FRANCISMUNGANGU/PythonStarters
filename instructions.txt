@@ -22,3 +22,15 @@ https://www.w3schools.com/python/python_lists_copy.asp
 Copying a lists
 https://www.w3schools.com/python/python_lists_join.asp  : joining a list
 https://www.w3schools.com/python/python_lists_methods.asp : glossary of list methods
+
+
+https://www.w3schools.com/python/python_dictionaries_methods.asp
+
+https://www.w3schools.com/python/python_dictionaries_loop.asp
+https://www.w3schools.com/python/python_sets_loop.asp
+https://www.w3schools.com/python/python_tuples_loop.asp
+https://www.w3schools.com/python/python_lists_loop.asp
+
+https://www.w3schools.com/python/module_math.asp
+
+homework: https://docs.google.com/document/d/1zlCf_Lkio3M0Mk_ekHMfrIKuyfYkZcTDT5gVPLZeFQ8/edit?usp=sharing
