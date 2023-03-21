@@ -7,7 +7,7 @@
 x = -1
 try:
     print(x)
-except:
+except: 
     print("An error occurred, check if x is defined")
 else:
     print(str(x) + " from else")

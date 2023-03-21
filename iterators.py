@@ -18,6 +18,7 @@ class Numbers:
         self.a = 1
         return self
     # provide traverse a class
+
     def __next__(self):
         x = self.a
         self.a += 1

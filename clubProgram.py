@@ -24,4 +24,5 @@ gender = input("Enter gender(male,female)")
 # age = 18
 # gender = "male"
 
+
 print(club_checkin(age, gender))

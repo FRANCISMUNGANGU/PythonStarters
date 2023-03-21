@@ -12,7 +12,7 @@ print(y)
 x = abs(-1.25)
 print(x)
 # pow: returns x to the power of y
-x = pow(4,3)
+x = pow(4, 3)
 print(x)
 # Math module
 # sqrt

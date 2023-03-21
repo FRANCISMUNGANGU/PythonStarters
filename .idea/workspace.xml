@@ -5,20 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66aa40c7-b94c-49d0-ac45-e7c9da7ef5fa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Math.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Regex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tryexcept.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/date.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dictionaries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scope.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonJson.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonModules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python_use_module.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythonpip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sqlite/crud.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/instructions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/instructions.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Math.py" beforeDir="false" afterPath="$PROJECT_DIR$/Math.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tryexcept.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tryexcept.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clubProgram.py" beforeDir="false" afterPath="$PROJECT_DIR$/clubProgram.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iterators.py" beforeDir="false" afterPath="$PROJECT_DIR$/iterators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +55,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="exe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonStarters" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -173,7 +169,97 @@
       <workItem from="1676465266099" duration="2074000" />
       <workItem from="1676467384102" duration="2709000" />
       <workItem from="1676545569317" duration="8454000" />
-      <workItem from="1676632499458" duration="4604000" />
+      <workItem from="1676632499458" duration="4903000" />
+      <workItem from="1676718555688" duration="285000" />
+      <workItem from="1676719591573" duration="64000" />
+      <workItem from="1676720017930" duration="38000" />
+      <workItem from="1676720086826" duration="95000" />
+      <workItem from="1676720212480" duration="18000" />
+      <workItem from="1676720296075" duration="57000" />
+      <workItem from="1676720444859" duration="31000" />
+      <workItem from="1676720736668" duration="183000" />
+      <workItem from="1676722344098" duration="152000" />
+      <workItem from="1676722629651" duration="80000" />
+      <workItem from="1676723023168" duration="54000" />
+      <workItem from="1676723777320" duration="9000" />
+      <workItem from="1676723900700" duration="352000" />
+      <workItem from="1676724544218" duration="7000" />
+      <workItem from="1676725880484" duration="37000" />
+      <workItem from="1676726037507" duration="31000" />
+      <workItem from="1676726108772" duration="65000" />
+      <workItem from="1676726243773" duration="20000" />
+      <workItem from="1676726428583" duration="53000" />
+      <workItem from="1676726517581" duration="15000" />
+      <workItem from="1676726710717" duration="28000" />
+      <workItem from="1676727252124" duration="31000" />
+      <workItem from="1676727355425" duration="36000" />
+      <workItem from="1676727784652" duration="245000" />
+      <workItem from="1676728313782" duration="9000" />
+      <workItem from="1676729006188" duration="66000" />
+      <workItem from="1676733703557" duration="294000" />
+      <workItem from="1676734710187" duration="234000" />
+      <workItem from="1676735948650" duration="32000" />
+      <workItem from="1676735994237" duration="147000" />
+      <workItem from="1676736382859" duration="7000" />
+      <workItem from="1676737250089" duration="43000" />
+      <workItem from="1676738710513" duration="100000" />
+      <workItem from="1676738871157" duration="27000" />
+      <workItem from="1676738994194" duration="27000" />
+      <workItem from="1676739061321" duration="103000" />
+      <workItem from="1676739192931" duration="47000" />
+      <workItem from="1676739265802" duration="7000" />
+      <workItem from="1676739485218" duration="25000" />
+      <workItem from="1676739875072" duration="59000" />
+      <workItem from="1676741325424" duration="56000" />
+      <workItem from="1676741557549" duration="92000" />
+      <workItem from="1676741990015" duration="16000" />
+      <workItem from="1676742223881" duration="22000" />
+      <workItem from="1676807137653" duration="18000" />
+      <workItem from="1676807190103" duration="8000" />
+      <workItem from="1676807331769" duration="30000" />
+      <workItem from="1676807738356" duration="30000" />
+      <workItem from="1676807863897" duration="15000" />
+      <workItem from="1676808073276" duration="39000" />
+      <workItem from="1676809002811" duration="15000" />
+      <workItem from="1676809591793" duration="17000" />
+      <workItem from="1676809721383" duration="18000" />
+      <workItem from="1676809938050" duration="14000" />
+      <workItem from="1676810007407" duration="10000" />
+      <workItem from="1676810291411" duration="12000" />
+      <workItem from="1676810706076" duration="16000" />
+      <workItem from="1676810784341" duration="35000" />
+      <workItem from="1676812652583" duration="174000" />
+      <workItem from="1676813746773" duration="17000" />
+      <workItem from="1676813958073" duration="75000" />
+      <workItem from="1676814299726" duration="125000" />
+      <workItem from="1676814834522" duration="21000" />
+      <workItem from="1676818310545" duration="2000" />
+      <workItem from="1676892033070" duration="8329000" />
+      <workItem from="1676901452725" duration="39000" />
+      <workItem from="1676901633373" duration="387000" />
+      <workItem from="1676965683514" duration="313000" />
+      <workItem from="1676977539367" duration="632000" />
+      <workItem from="1676981067660" duration="16000" />
+      <workItem from="1676983237173" duration="30000" />
+      <workItem from="1677142993906" duration="10000" />
+      <workItem from="1677143052141" duration="19000" />
+      <workItem from="1677143142110" duration="6000" />
+      <workItem from="1677143226566" duration="4000" />
+      <workItem from="1677226902734" duration="79000" />
+      <workItem from="1677318462661" duration="6000" />
+      <workItem from="1678355694873" duration="129000" />
+      <workItem from="1678463307903" duration="76000" />
+      <workItem from="1678463498735" duration="26000" />
+      <workItem from="1678463547053" duration="27000" />
+      <workItem from="1678615515894" duration="39000" />
+      <workItem from="1678615902656" duration="45000" />
+      <workItem from="1678619341769" duration="39000" />
+      <workItem from="1678620079094" duration="7000" />
+      <workItem from="1678622825343" duration="199000" />
+      <workItem from="1678879908843" duration="1435000" />
+      <workItem from="1678881376685" duration="77000" />
+      <workItem from="1678882330326" duration="21000" />
+      <workItem from="1678882666978" duration="5000" />
     </task>
     <servers />
   </component>
@@ -193,17 +279,21 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonStarters$loops.coverage" NAME="loops Coverage Results" MODIFIED="1676470099189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStarters$iterators.coverage" NAME="iterators Coverage Results" MODIFIED="1676552050040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStarters$oop.coverage" NAME="oop Coverage Results" MODIFIED="1676636683401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$iterators.coverage" NAME="iterators Coverage Results" MODIFIED="1676734826964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$oop.coverage" NAME="oop Coverage Results" MODIFIED="1678622904711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$Regex.coverage" NAME="Regex Coverage Results" MODIFIED="1676550095790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStarters$main.coverage" NAME="main Coverage Results" MODIFIED="1676467388734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$main.coverage" NAME="main Coverage Results" MODIFIED="1678881382615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$python_use_module.coverage" NAME="python_use_module Coverage Results" MODIFIED="1676901682709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$pythonpip.coverage" NAME="pythonpip Coverage Results" MODIFIED="1676896720440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$crud.coverage" NAME="crud Coverage Results" MODIFIED="1676965942503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/sqlite" />
+    <SUITE FILE_PATH="coverage/PythonStarters$pythonJson.coverage" NAME="pythonJson Coverage Results" MODIFIED="1678881445439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$functions.coverage" NAME="functions Coverage Results" MODIFIED="1676286519758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$sets.coverage" NAME="sets Coverage Results" MODIFIED="1676381834108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$lists.coverage" NAME="lists Coverage Results" MODIFIED="1676371872451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1676378225135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$dictionaries.coverage" NAME="dictionaries Coverage Results" MODIFIED="1676464474589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStarters$scope.coverage" NAME="scope Coverage Results" MODIFIED="1676547107976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/PythonStarters$Tryexcept.coverage" NAME="Tryexcept Coverage Results" MODIFIED="1676551125963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$scope.coverage" NAME="scope Coverage Results" MODIFIED="1676734775371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PythonStarters$Tryexcept.coverage" NAME="Tryexcept Coverage Results" MODIFIED="1676810811083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$operator.coverage" NAME="operator Coverage Results" MODIFIED="1675858500044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$operators.coverage" NAME="operators Coverage Results" MODIFIED="1676093563108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PythonStarters$exe.coverage" NAME="exe Coverage Results" MODIFIED="1675777068100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
